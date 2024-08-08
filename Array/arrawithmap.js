@@ -8,8 +8,11 @@
 //   console.log(val ** 2);
 // });
 
-const arr = [2, 32, 322, 22, 53];
-const newarr = arr.map((val) => {
-  return val ** 2;
-});
-console.log(newarr);
+// const arr = [2, 32, 322, 22, 53];
+// const newarr = arr.map((val) => {
+//   return val ** 2;
+// });
+// console.log(newarr);
+
+
+
