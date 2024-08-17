@@ -27,7 +27,23 @@
 
 
 
+// let votesInteresting = 20;
+// let votesMindlowing = 0;
 
-let age = 235;
-const check = age >= 18 ? "kjfsd" : "jsa";
-console.log(check);
+// if (votesInteresting === votesMindlowing) {
+//   alert("This fact is equally interesting and mindblowing");
+// } else if (votesInteresting > votesMindlowing) {
+//   console.log("Intersting fact!!");
+// } else if (votesInteresting < votesMindlowing) {
+//   console.log("Mindblowing fact!!");
+// }
+// if (votesMindlowing) {
+//   console.log("MINDBLOWING FACT!!");
+// } else {
+//   console.log("Not so special...");
+// }
+
+
+// let age = 235;
+// const check = age >= 18 ? "age is true" : "age is false";
+// console.log(check);
