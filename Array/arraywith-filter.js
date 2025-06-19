@@ -14,4 +14,4 @@
 // });
 // console.log(higestmarks);
 
-let arr = prompt("enter number");
+// let arr = prompt("enter number");

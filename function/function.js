@@ -22,20 +22,20 @@
 // let val = sum(65, 45);
 // console.log(val);
 
-function countVowels(str) {
-  count = 0;
-  for (let char of str) {
-    if (
-      char === "a" ||
-      char === "e" ||
-      char === "i" ||
-      char === "o" ||
-      char === "u"
-    ) {
-      count++;
-    }
-  }
-  console.log(count);
-}
+// function countVowels(str) {
+//   count = 0;
+//   for (let char of str) {
+//     if (
+//       char === "a" ||
+//       char === "e" ||
+//       char === "i" ||
+//       char === "o" ||
+//       char === "u"
+//     ) {
+//       count++;
+//     }
+//   }
+//   console.log(count);
+// }
 
-countVowels("akjash seids lauo ");
+// countVowels("akjash seids lauo ");

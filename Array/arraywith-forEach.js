@@ -5,7 +5,6 @@
 // arr.forEach((val) => {
 //   console.log(val * val);
 // });
-
 // or
 
 // let arrval = [3, 4, 5, 23, 325, 2];

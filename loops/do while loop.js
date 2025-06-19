@@ -1,4 +1,14 @@
+
+// do while loop kam se kam ek  baar jrur print hota h chahe condition true ya false ho 
+
+
+
+
+
+
+
 // do while loops
+
 // structure
 // do{
 //     code of Work;
